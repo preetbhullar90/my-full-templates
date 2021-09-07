@@ -50,6 +50,7 @@ body {
   
   .card a {
       text-align: center;
+      text-decoration: none;
   }
   
   img {
